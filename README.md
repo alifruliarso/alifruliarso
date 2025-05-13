@@ -29,7 +29,7 @@
 <br/>
 <p align="left">
   <a href="https://github.com/alifruliarso">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alifruliarso&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact" alt="top-lang" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alifruliarso&exclude_repo=alifruliarso.github.io&hide=html&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact" alt="top-lang" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alifruliarso">
     <img src="https://github-readme-stats.vercel.app/api?username=alifruliarso&rank_icon=github&show_icons=true&locale=en" alt="stats" />
